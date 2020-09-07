@@ -1,0 +1,38 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.img-full{
+  width: 100%;
+}
+
+.btn-taskbar{
+  padding: 10px 20px;
+  background-color: rebeccapurple;
+  color: #fff;
+}
+
+.btn-taskbar > span {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-taskbar > a {
+  color: #fff;
+  margin-right: 20px;
+}
+
+.btn-taskbar > a:hover {
+  outline: 2px solid #fff;
+  outline-offset: 5px;
+}
+
+.full-page {
+  width: 100%;
+  min-height: 900px;
+  background-size: contain;
+  /* background-position: center; */
+  background-repeat: no-repeat;
+}
