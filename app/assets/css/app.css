@@ -9,7 +9,7 @@ body {
 }
 
 .btn-taskbar{
-  padding: 10px 20px;
+  padding: 10px;
   background-color: rebeccapurple;
   color: #fff;
 }
@@ -33,6 +33,5 @@ body {
   width: 100%;
   min-height: 900px;
   background-size: contain;
-  /* background-position: center; */
   background-repeat: no-repeat;
 }
